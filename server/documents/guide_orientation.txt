@@ -1,0 +1,115 @@
+DOCUMENT OFFICIEL : GUIDE D'ORIENTATION ET CHOIX DE FILIÈRE - ENSA KHOURIBGA
+
+INTRODUCTION : COMMENT CHOISIR SA SPÉCIALISATION ?
+Le choix de la filière ingénieur est une étape cruciale. Il ne doit pas se baser uniquement sur les notes, mais sur trois critères :
+1. Les appétences techniques (ce que vous aimez faire au quotidien).
+2. Le projet professionnel (le métier que vous visez).
+3. Les compétences actuelles (vos points forts en mathématiques, physique, ou programmation).
+
+CI-DESSOUS LE GUIDE COMPARATIF DES FILIÈRES POUR VOUS AIDER À DÉCIDER :
+
+---
+
+1. FILIÈRE : GÉNIE INFORMATIQUE (GI)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous êtes passionné par le code, la programmation et la construction de logiciels.
+- Vous aimez résoudre des problèmes algorithmiques complexes.
+- Vous voulez comprendre comment fonctionnent les applications web, mobiles et le Cloud.
+- Vous préférez la création technique pure ("Hands-on coding").
+
+DÉBOUCHÉS ET MÉTIERS :
+- Ingénieur Développement Logiciel (Fullstack, Backend, Frontend).
+- Architecte Technique.
+- Ingénieur DevOps / Cloud.
+- Chef de projet technique.
+
+---
+
+2. FILIÈRE : INFORMATIQUE ET INGÉNIERIE DES DONNÉES (IID)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous avez un profil "Maths & Info" : vous aimez les statistiques, les probabilités et l'algèbre.
+- Vous êtes fasciné par l'Intelligence Artificielle, le Machine Learning et la prédiction.
+- Vous aimez analyser des données pour en tirer des conclusions logiques.
+- Vous n'avez pas peur des mathématiques appliquées.
+
+DÉBOUCHÉS ET MÉTIERS :
+- Data Scientist (Scientifique des données).
+- Data Engineer (Ingénieur de données).
+- Ingénieur en Intelligence Artificielle.
+- Analyste Big Data.
+
+---
+
+3. FILIÈRE : INGÉNIERIE DES RÉSEAUX INTELLIGENTS ET CYBERSÉCURITÉ (IRIC)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous avez un esprit de "protecteur" ou d'investigateur.
+- Vous vous intéressez à la manière dont les ordinateurs communiquent entre eux (protocoles, réseaux).
+- Vous aimez les défis de sécurité, le hacking éthique et la protection des systèmes.
+- Vous préférez l'infrastructure et l'administration système au développement logiciel pur.
+
+DÉBOUCHÉS ET MÉTIERS :
+- Ingénieur Cybersécurité / Pentester.
+- Administrateur Réseaux et Systèmes.
+- Responsable de la Sécurité des Systèmes d'Information (RSSI).
+- Architecte Réseaux & Cloud.
+
+---
+
+4. FILIÈRE : GÉNIE ÉLECTRIQUE (GE)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous préférez le concret et le matériel ("Hardware") au virtuel.
+- Vous aimez la physique, l'électricité et l'électronique.
+- Vous êtes intéressé par la robotique, les objets connectés (IoT) et l'automatisme.
+- Vous voulez travailler sur des systèmes embarqués (automobile, aéronautique).
+
+DÉBOUCHÉS ET MÉTIERS :
+- Ingénieur Systèmes Embarqués.
+- Ingénieur en Automatisme Industriel.
+- Chef de projet Énergie électrique.
+- Ingénieur en Électronique de puissance.
+
+---
+
+5. FILIÈRE : GÉNIE DES PROCÉDÉS DE L'ÉNERGIE ET DE L'ENVIRONNEMENT (GPEE)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous êtes sensible aux enjeux écologiques et au développement durable.
+- Vous avez des affinités avec la chimie, la thermodynamique et la mécanique des fluides.
+- Vous voulez travailler dans le secteur des énergies renouvelables ou du traitement de l'eau.
+- Vous cherchez un métier avec un impact direct sur l'environnement.
+
+DÉBOUCHÉS ET MÉTIERS :
+- Ingénieur en Efficacité Énergétique.
+- Responsable Qualité, Sécurité, Environnement (QSE).
+- Ingénieur Procédés (Industrie chimique, agroalimentaire).
+- Chef de projet Énergies Renouvelables.
+
+---
+
+6. FILIÈRE : MANAGEMENT ET GOUVERNANCE DES SYSTÈMES D'INFORMATION (MGSI)
+POUR QUI ?
+Cette filière est faite pour vous si :
+- Vous avez un profil mixte : vous aimez la tech mais vous préférez le management.
+- Vous avez un bon sens de la communication et du leadership.
+- Vous vous intéressez à la stratégie d'entreprise, à la gestion de projet et à l'audit.
+- Vous voulez faire le pont entre les équipes techniques et la direction générale.
+
+DÉBOUCHÉS ET MÉTIERS :
+- Chef de Projet SI / MOA (Maîtrise d'Ouvrage).
+- Consultant en Transformation Digitale / ERP.
+- Auditeur des Systèmes d'Information.
+- Futur DSI (Directeur des Systèmes d'Information).
+
+---
+
+RÉSUMÉ POUR LA DÉCISION :
+- Code & Tech pur -> GI
+- Maths & IA -> IID
+- Sécurité & Infra -> IRIC
+- Physique & Hardware -> GE
+- Environnement & Chimie -> GPEE
+- Gestion & Stratégie -> MGSI

@@ -1,0 +1,39 @@
+Salaires moyens des ingénieurs débutants par entreprise (glassdoor 2025) :
+
+Ministères et administrations publics : 9000 DHS
+
+ONCF : 11 000 DHS
+
+ONDA : 11 250 DHS
+
+ANP : 12 000 DHS
+
+OCP : 17 000 DHS
+
+JESA : 15 000 DHS
+
+SNEP : 13 500 DHS 
+
+NOVEC : 11 000 DHS 
+
+REDAL : 10 500 DHS 
+
+MARSA MAROC : 10 500 DHS 
+
+TAQA MOROCCO : 12 000 DHS 
+
+NAREVA : 12 000 DHS 
+
+VINCI ENERGIES : 13 000 DHS 
+
+JET CONTRACTORS : 12 000 DHS 
+
+TGCC : 12 416 DHS 
+
+SGTM : 11 250 DHS 
+
+ALTEN : 8000 DHS 
+
+Capgemini : 8000 DHS 
+
+Stellantis : 10 000 DHS

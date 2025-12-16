@@ -1,0 +1,99 @@
+MASTER Informatique et Mathématiques pour la Science des Données (IMSD) - Programme Détaillé
+Première année
+Semestre 1
+Mathématiques pour la Science des Données
+
+Programmation pour la Science des Données
+
+Optimisation pour la Science des Données
+
+Python / Traitement des Données
+
+Analyse des Données
+
+Soft Skills
+
+Langues Étrangères (Français / Anglais)
+
+Semestre 2
+Machine Learning
+
+Outils d’Aide à la Décision
+
+Introduction au Big Data
+
+Projet des Données
+
+Data Warehouse / Big Data Warehouse
+
+Culture Digitale
+
+Langues Étrangères (Français / Anglais)
+
+Deuxième année
+Semestre 3
+Deep Learning
+
+Apprentissage par Renforcement
+
+Vision par Ordinateur
+
+Intégration des Données en Big Data
+
+Ingénierie des Connaissances
+
+Culture et Soft Skills
+
+Langues Étrangères (Français / Anglais)
+
+Semestre 4
+Employment Skills
+
+Projet de Fin d’Études (Équivalent à 6 modules disciplinaires)
+
+Débouchés de la formation
+Data Scientist
+
+Data Miner
+
+Chef de Projet en Informatique Décisionnelle
+
+Concepteur d’Outils Logiciels Spécialisés
+
+Ingénieur de Recherche et Développement
+
+Consultant Expert en Décisionnel
+
+Expert en Intelligence Artificielle
+
+Conditions d’admission
+Licence ou diplôme équivalent en Mathématiques, Informatique, Sciences des Données, ou Intelligence Artificielle
+
+Mention "Assez Bien" minimum
+
+Baccalauréat scientifique ou technique
+
+Procédure de candidature
+Dossier électronique :
+
+CV
+
+Carte d’Identité Nationale (copie certifiée)
+
+Baccalauréat (copie certifiée)
+
+Diplôme bac+2 (DEUG ou équivalent, copie certifiée)
+
+Diplôme bac+3 (Licence ou équivalent, copie certifiée)
+
+Relevés de notes des 6 semestres
+
+Pré-inscription en ligne :
+http://ensak.usms.ac.ma/PreinscriptionMaster/
+
+Coordonnées :
+Imad HAFIDI – Coordinateur
+📞 +212 662057769
+📧 i.hafidi@usms.ma
+📍 ENSA Khouribga, Bd Béni Amir, BP 77 – Département Mathématiques et Informatique
+🌐 HTTP://ENSAK.USMS.AC.MA
